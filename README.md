@@ -1,6 +1,5 @@
 # hello-world
 Learn how to use Git.
-This is a branch.
 # 这是中文版 #
 - 学习Git
 - 我知道啦
