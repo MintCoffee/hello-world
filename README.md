@@ -1,3 +1,3 @@
 # hello-world
-Learn how to use Git
+Learn how to use Git.
 This is a branch.
